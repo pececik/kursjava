@@ -8,7 +8,7 @@ public class Klasa {
         this.a = a;
     }
 
-    public int pobierzA() {
+    public int wezA() {
         return a;
     }
 
