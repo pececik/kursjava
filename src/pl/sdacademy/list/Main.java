@@ -10,6 +10,8 @@ public class Main {
         System.out.println(myIntList);
         myIntList.removeAll(234);
 
+	myIntList.removeAll(233);
+
         System.out.println(myIntList);
     }
 }
